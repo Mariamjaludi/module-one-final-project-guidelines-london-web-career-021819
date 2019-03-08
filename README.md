@@ -46,6 +46,6 @@ For those who want to contribute all you have to do is add a CONTRIBUTING file (
 This project is licensed under the terms of the MIT license.
 
 ## Acknowledgments
-* Manuel's enthusiasm to test our project
+* Manuel's enthusiasm to test our project.
 * Marju's patience in helping us maneuver with ActiveRecord.
 * Wachira's positive vibes.  
